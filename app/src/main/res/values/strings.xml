@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Pharmaniaga</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string-array name="data_name">
+        <item>Makanan 1</item>
+        <item>Makanan 1</item>
+        <item>Makanan 1</item>
+        <item>Makanan 1</item>
+        <item>Makanan 4</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Soto ayam Lamongan merupakan salah satu soto khas Jawa Timur yang populer. Rasanya yang gurih diperoleh dari bumbu-bumbu rempah seperti jahe, merica, ketumbar, dan kemiri. Kuah soto ini berwarna bening kekuningan karena menggunakan kunyit.</item>
+        <item>Deskrispsi 1</item>
+        <item>Deskrispsi 1</item>
+        <item>Deskrispsi 1</item>
+        <item>Deskrispsi 4</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Rp. 15.000</item>
+        <item>Rp. 15.000</item>
+        <item>Rp. 15.000</item>
+        <item>Rp. 15.000</item>
+        <item>Rp. 15.000</item>
+    </string-array>
+
+    <integer-array name="data_image">
+        <item>@drawable/food1</item>
+        <item>@drawable/food1</item>
+        <item>@drawable/food1</item>
+        <item>@drawable/food1</item>
+        <item>@drawable/food1</item>
+    </integer-array>
+</resources>
